@@ -1,4 +1,5 @@
 **COOK BOOK**
+
 This project is Indian recipe book created using LaTeX, showcasing traditional recipes with high-quality images and design. It includes dynamic sections for ingredients, 
 step-by-step instructions, and accompanying visuals for each dish.
 
@@ -8,4 +9,5 @@ step-by-step instructions, and accompanying visuals for each dish.
 - High-resolution PDF optimized for both digital and print use.
 
 **Tech Stack**
+
 Tools: LaTeX, Overleaf
